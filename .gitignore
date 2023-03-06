@@ -10,6 +10,8 @@ syntax: glob
 *~
 *.db
 *.log
+*.exe
+*.sum
 public/*
 go-selfupdate/go-selfupdate
 example/example-server
